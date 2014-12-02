@@ -1,0 +1,65 @@
+body {
+  background-color: #e8eae8;
+  color: #5d665b;
+  margin: 20px;
+  font-family: Arial;
+  font-size: medium;
+  text-align: justify;
+                    }
+                    h3 {
+                      color: #568;
+                      font-size: 1.5em;
+                            }
+                            .date {
+                              color: #aaaaaa;
+                              font-size: medium;
+                                    }
+                                    .h {
+                                      font-weight: bold;
+                                        }
+                                        .header {
+                                          font-size: 1.2em;
+                                          font-family: Arial;
+                                          font-weight: bold;
+                                                    }
+                                                    .top {
+                                                      text-align: center;
+                                                      font-family: Arial;
+                                                            }
+                                                            .center {
+                                                              margin-left: auto;
+                                                              margin-right: auto;
+                                                              width: 50em;
+                                                                        }
+
+                                                                        .vis {
+                                                                          font-weight: bold;
+                                                                          margin: 2px;
+                                                                          padding: 5px;
+                                                                                    }
+
+                                                                                    #menu a:hover { background: #FFF }
+                                                                                    #menu a {
+                                                                                      text-decoration: none;
+                                                                                      font-weight: bold;
+                                                                                      color:#966b72;
+                                                                                      margin: 2px;
+                                                                                      padding: 5px;
+                                                                                                        }
+
+                                                                                                        a {
+                                                                                                          /*text-decoration: none;*/
+                                                                                                          color: #568;
+                                                                                                          /*margin: 2px;*/
+                                                                                                          /*padding: 5px;*/
+                                                                                                            }
+
+                                                                                                            #schedule {width: 800px}
+                                                                                                            #schedule thead {background-color: #96B8CB}
+                                                                                                            #schedule tr {margin: 0}
+                                                                                                            #schedule td, #schedule th {
+                                                                                                              border: 1px solid #777;
+                                                                                                              padding: 3px;
+                                                                                                              text-align: center;
+                                                                                                                  }
+                                                                                                                  #schedule tr td:first-child {text-align: left}
